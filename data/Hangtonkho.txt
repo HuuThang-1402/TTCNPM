@@ -1,0 +1,14 @@
+Mã Thực Phẩm,Tên Thực Phẩm,Số Lượng,Hạn Sử Dụng
+FC7K,Khoai tây,10kg,1 năm
+CWE3,Cánh gà,60 cái,3 ngày
+RC3T,Đùi gà,50 cái,3 ngày
+FF6Y,Bột chiên giòn,10kg,Tùy bịch
+OL5G,Dầu ăn, 5 bình,3 tháng
+RB7Y,Gạo,20kg,1 năm
+TTM8,Cà chua,5kg,2 tháng
+TUV9,Xà lách,5kg,2 tháng
+PEP2,Pepsi,100 lon,1 năm
+FAN5,Fanta,100 lon, 1 năm
+ICE6,Kem,10 kg,2 tháng
+FHI5,Thịt cà,3 kg,3 ngày
+SIMP6,Thịt tôm,3 kg,3 ngày
